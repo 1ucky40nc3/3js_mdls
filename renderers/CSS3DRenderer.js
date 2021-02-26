@@ -267,5 +267,3 @@ var CSS3DRenderer = function () {
 	};
 
 };
-
-export { CSS3DObject, CSS3DSprite, CSS3DRenderer };
